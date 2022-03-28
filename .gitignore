@@ -1,0 +1,10 @@
+Logs/
+Library/
+obj/
+Temp/
+AssetBundles/
+*.apk
+ARContent/output/
+*.vsconfig
+*.sln
+*.csproj
