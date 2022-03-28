@@ -1,0 +1,17 @@
+{
+    "name": "UGlue.Editor",
+    "references": [
+        "GUID:09d67a5674dedbc47861a5b8161396cf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
