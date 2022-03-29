@@ -1,0 +1,13 @@
+{
+  "name": "com.migu.uglue",
+  "displayName": "UGlue",
+  "version": "0.9.0",
+  "unity": "2019.2",
+  "keywords": [
+    "UI",
+    "ugui",
+    "Unity UI",
+    "Canvas"
+  ],
+  "description": "lightway framework"
+}
